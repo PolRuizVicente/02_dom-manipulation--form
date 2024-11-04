@@ -21,4 +21,5 @@ function addNote() {
     document.getElementById("notesContainer").appendChild(noteElement);
 
     document.getElementById("noteForm").reset();
+
 }
